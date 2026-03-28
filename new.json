@@ -2,18 +2,18 @@
   "news": [
     {
       "title": "Bem-vindo ao ImperioRJ",
-      "description": "O servidor ImperioRJ está oficialmente aberto! Entre agora e comece sua história no roleplay.",
-      "image": "http://177.155.199.185/apigua/files/images/news1.png"
+      "description": "O servidor ImperioRJ estÃ¡ oficialmente aberto! Entre agora e comece sua histÃ³ria no roleplay.",
+      "image": "https://raw.githubusercontent.com/hernanbosta-max/automatic-octo-palm-tree/main/news1.png"
     },
     {
-      "title": "Atualização v1.1",
-      "description": "Nova HUD padrão GTA, correções de bugs e melhorias de desempenho.",
-      "image": "http://177.155.199.185/apigua/files/images/news2.png"
+      "title": "AtualizaÃ§Ã£o v1.1",
+      "description": "Nova HUD padrÃ£o GTA, correÃ§Ãµes de bugs e melhorias de desempenho.",
+      "image": "https://raw.githubusercontent.com/hernanbosta-max/automatic-octo-palm-tree/main/news2.png"
     },
     {
-      "title": "Sistema de Organizações",
-      "description": "Agora é possível criar e gerenciar organizações dentro do servidor.",
-      "image": "http://177.155.199.185/apigua/files/images/news3.png"
+      "title": "Sistema de OrganizaÃ§Ãµes",
+      "description": "Agora Ã© possÃ­vel criar e gerenciar organizaÃ§Ãµes dentro do servidor.",
+      "image": "https://raw.githubusercontent.com/hernanbosta-max/automatic-octo-palm-tree/main/news3.png"
     }
   ]
 }
