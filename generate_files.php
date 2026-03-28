@@ -3,7 +3,7 @@ header('Content-Type: application/json');
 
 // CONFIG
 $base_dir = __DIR__;
-$base_url = "https://SEU_SITE/apiraife/com.raiferoleplay.game/"; // ⚠️ usa HTTPS
+$base_url = "https://raw.githubusercontent.com/hernanbosta-max/automatic-octo-palm-tree/main/teste.json"; // ⚠️ usa HTTPS
 
 function listarArquivos($dir, $base_dir, $base_url) {
     $arquivos = [];
