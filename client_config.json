@@ -1,7 +1,7 @@
 {
   "client_config": {
-    "version_code": 2,
+    "version_code": 1,
     "url_launcher": "",
-    "url_cache_files": "https://raw.githubusercontent.com/hernanbosta-max/Api/main/teste.json"
+    "url_cache_files": "https://raw.githubusercontent.com/hernanbosta-max/automatic-octo-palm-tree/main/teste.json"
   }
-}
+} 
