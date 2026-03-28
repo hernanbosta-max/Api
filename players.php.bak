@@ -2,8 +2,8 @@
 header('Content-Type: application/json');
 
 // Configurações do servidor SA-MP
-$server_ip   = "190.102.40.7"; // seu IP
-$server_port = 8821;              // porta do server
+$server_ip   = "135.148.164.122"; // seu IP
+$server_port = 14077;              // porta do server
 
 // Função para pegar informações do servidor SA-MP
 function query_samp($ip, $port) {
